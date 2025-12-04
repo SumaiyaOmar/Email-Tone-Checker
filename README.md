@@ -109,18 +109,19 @@ User Input → Gemini Analysis → JSON Output → UI Rendering
 
 ## 📁 Repository Structure
 
-/project-root
-index.html
-index.tsx
-App.tsx
-components
-ToneSelecter.tsx
-metadata.json
-services
-geminiService.ts
-type.ts
-README.md  ← This file
-demo-video.mp4
+/project-root  
+index.html  
+index.tsx  
+App.tsx  
+components  
+└── ToneSelecter.tsx  
+metadata.json  
+services  
+└── geminiService.ts  
+type.ts  
+README.md  ← This file  
+demo-video.mp4  
+
 
 
 
