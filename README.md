@@ -125,6 +125,7 @@ Sumaiya Ahmed
 2.	Collaborated on building the app in Google AI Studio (Gemini 2.5 Flash).
 3.	 Wrote the prompts and tested the tone-rewriting features.
 4.	 Created the demo video and project documentation.
+
 Sarah Bawazir 
 1.	Co-developed the project idea.
 2.	Collaborated on building the app in Google AI Studio (Gemini 2.5 Flash).
