@@ -52,6 +52,7 @@ Model Used:
 Gemini 2.5 Flash in Google AI Studio
 ________________________________________
 ✏ Prompts 
+
 🟦 Prompt 1 — App Definition Prompt
 This app is an Email/Communication Tone Checker.  
 It should take a user’s draft message (email, chat, or note) and do two things:
